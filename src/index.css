@@ -378,7 +378,7 @@
  }
  .input-symbol.error [class^="icon-"],
  .input-symbol.error [class*=" icon-"] {
-   color: #ff4400;
+   color: #ff4400db;
  }
  .input-symbol [class^="icon-"],
  .input-symbol [class*=" icon-"] {
